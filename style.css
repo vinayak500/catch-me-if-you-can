@@ -1,0 +1,24 @@
+body{
+    margin:0px;
+    /* background:linear-gradient(to right , rgb(58, 58, 227) , red); */
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+#title{
+    text-align: center;
+    font-size: 40px;
+}
+
+
+#box{
+    height:30vh;
+    width:15vw;
+    background-image: url(images/theif4.webp);
+    background-size: contain;
+    background-repeat: no-repeat;
+    /* background-color: deeppink; */
+    /* border:2px solid black; */
+}
